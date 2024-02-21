@@ -15,7 +15,21 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from django.conf.urls import include
+from rest_framework import routers
+from graphicsphereapi.views import register_user, check_user, ReviewView, NovelView, GenreView
+
+router = routers.DefaultRouter(trailing_slash=False)
+router.register(r'reviews', ReviewView, 'review')
+router.register(r'novels', NovelView, 'novel')
+router.register(r'genres', GenreView, 'genre')
+
+
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('register', register_user),
+    path('checkuser', check_user),
+    path('', include(router.urls))
+
 ]

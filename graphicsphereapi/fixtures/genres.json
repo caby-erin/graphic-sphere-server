@@ -1,0 +1,128 @@
+[
+  {
+      "model": "graphicsphereapi.genre",
+    "pk": 1,
+    "fields": {
+      "name": "Action"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 2,
+    "fields": {
+      "name": "Adventure"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 3,
+    "fields": {
+      "name": "Horror"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 4,
+    "fields": {
+      "name": "Romance"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 5,
+    "fields": {
+      "name": "Sci-Fi"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 6,
+    "fields": {
+      "name": "Drama"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 7,
+    "fields": {
+      "name": "LGBTQ"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 8,
+    "fields": {
+      "name": "Fantasy"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 9,
+    "fields": {
+      "name": "Based on a novel"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 10,
+    "fields": {
+      "name": "YA"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 11,
+    "fields": {
+      "name": "Banned Book"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 12,
+    "fields": {
+      "name": "Comedy"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 13,
+    "fields": {
+      "name": "Mystery/Thriller"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 14,
+    "fields": {
+      "name": "Crime/Noir"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 15,
+    "fields": {
+      "name": "Mythology"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 16,
+    "fields": {
+      "name": "Psychological"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 17,
+    "fields": {
+      "name": "Satire"
+    }
+  },
+  {
+    "model": "graphicsphereapi.genre",
+    "pk": 18,
+    "fields": {
+      "name": "Coming of Age"
+    }
+  }
+]

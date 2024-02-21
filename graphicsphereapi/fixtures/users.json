@@ -1,0 +1,20 @@
+[
+  {
+    "model": "graphicsphereapi.user",
+    "pk": 1,
+    "fields": {
+      "name": "J. B. ",
+      "bio": "Bookworm",
+      "uid": "gui22"
+    }
+  },
+  {
+    "model": "graphicsphereapi.user",
+    "pk": 2,
+    "fields": {
+      "name": "Laura",
+      "bio": "Love reading horror / sci-fi graphic novels",
+      "uid": "122xyz"
+    }
+  }
+]

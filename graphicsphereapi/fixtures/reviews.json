@@ -1,0 +1,20 @@
+[
+  {
+    "model": "graphicsphereapi.review",
+    "pk": 1,
+    "fields": {
+      "novel": 1,
+      "user": 2,
+      "content": "The best read of this year, IMO."
+    }
+  },
+  {
+    "model": "graphicsphereapi.review",
+    "pk": 2,
+    "fields": {
+      "novel": 2,
+      "user": 1,
+      "content": "This is one of my all time favorites!"
+    }
+  }
+]

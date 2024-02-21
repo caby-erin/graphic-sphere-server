@@ -1,0 +1,26 @@
+[
+  {
+    "model": "graphicsphereapi.novelgenre",
+    "pk": 1,
+    "fields": {
+      "novel": 1,
+      "genre": 13
+    }
+  },
+  {
+    "model": "graphicsphereapi.novelgenre",
+    "pk": 2,
+    "fields": {
+      "novel": 2,
+      "genre": 7
+    }
+  },
+  {
+    "model": "graphicsphereapi.novelgenre",
+    "pk": 3,
+    "fields": {
+      "novel": 3,
+      "genre": 9
+    }
+  }
+]
