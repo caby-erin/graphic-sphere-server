@@ -1,0 +1,41 @@
+[
+  {
+    "model": "graphicsphereapi.novel",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "title": "The Phantom Scientist",
+      "image_url": "https://m.media-amazon.com/images/I/81KR38XBXOL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Robin Cousin",
+      "illustrator": "Robin Cousin",
+      "description": "An isolated institute laid out in a Fibonacci sequence, hidden deep in the forest. Twenty-four labs. Twenty-four researchers. Until one of them disappears . . .",
+      "rating": 9
+    }
+  },
+  {
+    "model": "graphicsphereapi.novel",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "title": "Let Me Out",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655219830i/61288747.jpg",
+      "author": "Emmett Nahil",
+      "illustrator": "George Williams",
+      "description": "When Pastor Holley's wife, Kelly, is found murdered, FBI agent Garrett takes on the case with local New Jersey Sheriff Mullen. Together they start drumming up a convenient satanic-flavored scapegoat to cover up their own crimes of murder and experimentation. That scapegoat comes in the form of four friends: Mitch, Terri, Lupe, and Jackson. The punks, the queers, and the outcasts. Soon the group becomes the prime suspects of Kelly's murder. Now on the run from Garrett and Mullen, the group finds themselves in the midst of a deal with the devil themself.",
+      "rating": 8
+    }
+  },
+  {
+    "model": "graphicsphereapi.novel",
+    "pk": 3,
+    "fields": {
+      "user": 2,
+      "title": "Slaughter House 5: A Graphic Novel Adaptation",
+      "image_url": "https://m.media-amazon.com/images/I/81PWUQgQ2uL._AC_UF1000,1000_QL80_.jpg",
+      "author": "Kurt Vonnegut & Ryan North",
+      "illustrator": "Albert Monteys ",
+      "description": "An anti-war book telling the story of Billy Pilgrim, who was on the ground in the German city of Dresden as a prisoner of war when the Allies firebombed it during WWII. If we experience life like a playlist, Billys life is on shuffle, basically, and we follow his story the same way. One moment you might be on the Western Front, the next in a childhood swimming pool, or at a drunken party decades after the war.",
+      "rating": 8
+    }
+  }
+]
